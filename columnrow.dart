@@ -452,8 +452,6 @@ class ColumnRowWidget extends StatelessWidget {
                   ),
                 ],
               ),
-              SizedBox(height: 10),
-              Row(),
             ],
           ),
         ),
@@ -461,3 +459,4 @@ class ColumnRowWidget extends StatelessWidget {
     );
   }
 }
+
